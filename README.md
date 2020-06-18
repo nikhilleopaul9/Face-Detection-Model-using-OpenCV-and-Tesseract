@@ -8,3 +8,5 @@ This is a Face detection model which detects all the faces in News article image
 **Screenshots**
 
 ![Example Screenshot](https://user-images.githubusercontent.com/49313619/85037553-295d7e00-b1a3-11ea-9fc9-8c9a8ac175c5.png)
+
+![Example Screenshot 2](https://user-images.githubusercontent.com/49313619/85037935-a12ba880-b1a3-11ea-95d7-cc435f8445a5.png)
