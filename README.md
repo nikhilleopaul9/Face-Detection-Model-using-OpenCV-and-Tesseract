@@ -6,3 +6,5 @@ This is a Face detection model which detects all the faces in News article image
 **Libraries Used**- OpenCV, Tesseract and Pillow
 
 **Screenshots**
+
+![alt text](https://github.com/nikhilleopaul9/facedetectionmodel/blob/master/Example Screenshot.jpg?raw=true)
